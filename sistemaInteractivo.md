@@ -6,7 +6,7 @@ El sistema permite mantener la irrigación de las plantas al analizar la humedad
 
 
 
-Elementos:
+**Elementos:**
 
 * Planta
 * Maceta
@@ -18,6 +18,18 @@ Elementos:
 
 
 
+**Entradas:**
+Sensor de humedad del suelo: Señal analógica
+
+Sensor de nivel de agua: Señal analógica
+
+
+
+**Salidas:**
+
+Electroválvula: Señal digital
+
+Led indicador de reserva de agua: Señal digital
 **Usuario**
 
 Persona amante de las plantas cuyo tiempo se ve limitado por las actividades de la vida cotidiana, que busca una solución práctica para su mantenimiento.
