@@ -6,7 +6,7 @@ El sistema permite mantener la irrigación de las plantas al analizar la humedad
 
 
 
-Elementos:
+**Elementos:**
 
 * Planta
 * Maceta
@@ -17,4 +17,17 @@ Elementos:
 * Arduino
 
 
+
+**Entradas:**
+Sensor de humedad del suelo: Señal analógica
+
+Sensor de nivel de agua: Señal analógica
+
+
+
+**Salidas:**
+
+Electroválvula: Señal digital
+
+Led indicador de reserva de agua: Señal digital
 
