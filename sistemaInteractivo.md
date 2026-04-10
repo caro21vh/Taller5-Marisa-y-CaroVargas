@@ -18,3 +18,7 @@ Elementos:
 
 
 
+**Usuario**
+
+Persona amante de las plantas cuyo tiempo se ve limitado por las actividades de la vida cotidiana, que busca una solución práctica para su mantenimiento.
+
